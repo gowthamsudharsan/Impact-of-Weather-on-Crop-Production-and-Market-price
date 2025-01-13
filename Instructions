@@ -1,0 +1,6 @@
+Steps:
+1. Clean and concat the 3 csv datasets.
+2. Install all the necessary packages.
+3. Upload the data into MongoDB if the dataset is in json (optional).
+3. From each dataset, consider the zipfiles for python code for analysis. And upload cleansed data into PostGre.
+3. Visualize using PowerBI.
